@@ -12,7 +12,7 @@ npm install
 ```
 
 # Usage
-#### Open the DoomOnline website in your web browser.
+#### Open the DoomOnline website in http://localhost:8080
 #### Click on the "Play" button to start the game.
 #### Use the arrow keys to move and the mouse to aim.
 #### Press the spacebar to interact and shoot.
