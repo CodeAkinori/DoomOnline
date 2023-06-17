@@ -1,5 +1,5 @@
 # DoomOnline
-DoomOnline is a browser-based project that allows you to play the classic game Doom using the JS-DOS DosBox emulator.
+DoomOnline is a browser-based project that allows you to play the classic game Doom using the JS-DOS DosBox emulator!
 
 ![image](https://github.com/AkinoriKoerich/DoomOnline/assets/119367977/7a1aa2e8-9f6d-45ea-b63d-8d2b7337afb5)
 
