@@ -4,7 +4,7 @@ DoomOnline is a browser-based project that allows you to play the classic game D
 ![image](https://github.com/AkinoriKoerich/DoomOnline/assets/119367977/7a1aa2e8-9f6d-45ea-b63d-8d2b7337afb5)
 
 # Installation
-To install the dependencies, just run the command:aaaaaaaa
+To install the dependencies, just run the command:aaaaaaa
 
 ```
 cd my-app
